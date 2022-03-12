@@ -116,7 +116,7 @@ ui <- tagList(
                                                 label = div(HTML("<b>Funció de projecció per l'agregació (no aplica Secció Censal)</b>")),
                                                 choices = c("Mitjana",
                                                             "Mediana"),
-                                                selected = "Mediana"),
+                                                selected = "Mitjana"),
                                     
                                     radioButtons("years",
                                                  label = div(HTML("<b>Any</b>")),
