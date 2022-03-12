@@ -6,6 +6,6 @@ Dashboard interactiu sobre les dades de renda mitjana per secció censal de la c
 
 https://mcocam.shinyapps.io/renda_bcn/
 
-#Screenshot
+# Screenshot
 
-
+![Screenshot App](/img/screenshot.png)
